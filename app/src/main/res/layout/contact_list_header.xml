@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Wide.Layout"
+    android:background="@color/colorGroup">
+
+    <TextView
+        android:id="@+id/tv_first_letter"
+        style="@style/Wrap" />
+</LinearLayout>

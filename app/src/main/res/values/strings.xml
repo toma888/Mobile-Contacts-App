@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="detail_name">Detail contact</string>
+    <string name="contact_permission_description">Read contacts permission allows us to read your contacts. Please allow it for additional functionality.</string>
+    <string name="contact_permission_description_denied">Permission Denied. We can\'t read contacts.</string>
+    <string name="no_contact_phone">none</string>
+    <string name="amount_contacts">number of contacts: %1$d</string>
+    <string name="ascending_order">Ascending order</string>
+    <string name="descending_order">Descending order</string>
+    <string name="progress_description">Please wait…</string>
+</resources>

@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Wide.Layout">
+
+    <TextView
+        android:id="@+id/tv_contact_name"
+        style="@style/Wrap" />
+
+    <TextView
+        android:id="@+id/tv_contact_phone"
+        style="@style/Wrap" />
+</LinearLayout>
