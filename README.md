@@ -5,17 +5,18 @@ This is Android application, wich access device contacts:
 3. Email and phone are clickable, and click by them opens device email composer or send phone to dial.
 4. App represents current charging state at the bottom of screen with image. 
 5. Charging state updates dynamically, without app relaunch.
-6. Contact list has headers - separators with the first letter of the contact name to group them
+6. Contact list has headers - separators with the first letter of the contact name to group them.
 Example:
-А
-Андрей
-Антон
+              А
+              Андрей
+ Антон
 В 
 Вадим
 Валентин
 Д
 Дарт Вейдер
-etc. Display the header only if there are names starting with this letter.
+etc. 
+Display the header only if there are names starting with this letter.
 7. App has Collapsing Toolbar with a link to the scroll of ReclyerView. 
 In the expanded state, in addition to the title of the screen, 
 displays the total number of contacts. 
