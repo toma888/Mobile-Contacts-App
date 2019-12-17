@@ -7,8 +7,8 @@ This is Android application, wich access device contacts:
 5. Charging state updates dynamically, without app relaunch.
 6. Contact list has headers - separators with the first letter of the contact name to group them.
 Example:
-              А
-              Андрей
+             1. А
+             2. Андрей
              Антон
 В 
 Вадим
