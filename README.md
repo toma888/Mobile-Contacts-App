@@ -9,7 +9,7 @@ This is Android application, wich access device contacts:
 Example:
               А
               Андрей
- Антон
+             Антон
 В 
 Вадим
 Валентин
